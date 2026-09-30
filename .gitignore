@@ -1,0 +1,12 @@
+.android-tools/
+.gradle/
+.gradle-cache/
+app/build/
+*.png
+local.properties
+*.jks
+keystore.properties
+
+# Keep the single, versioned APK in releases/ for private sharing.
+!releases/
+!releases/*.apk

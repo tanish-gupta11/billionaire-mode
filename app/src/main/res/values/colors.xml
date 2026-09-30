@@ -1,0 +1,7 @@
+<resources>
+    <color name="ink">#0B1020</color>
+    <color name="surface">#121A31</color>
+    <color name="accent">#FFB84D</color>
+    <color name="muted">#AAB4CE</color>
+    <color name="icon_navy">#07162D</color>
+</resources>
